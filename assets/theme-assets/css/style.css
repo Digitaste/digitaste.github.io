@@ -19,7 +19,7 @@
     font-weight: 500
 }
 .card-header p {
-    font-family: MontserratLight, sans-serif;
+    font-family: 'ubuntu', sans-serif;
     margin-bottom: 12px
 }
 .card-header-right-icon {
@@ -403,7 +403,7 @@ div.dt-button:active:not(.disabled) {
     margin: 15px 0
 }
 .panel-body {
-    font-family: MontserratLight, sans-serif
+    font-family: 'ubuntu', sans-serif
 }
 .panel-primary {
     border-color: #03a9f5
@@ -736,7 +736,7 @@ div.dt-button:active:not(.disabled) {
 }
 .notification-text {
     font-size: 12px;
-    font-family: MontserratLight, sans-serif;
+    font-family: 'ubuntu', sans-serif;
     max-width: 100%;
     overflow: hidden;
     text-overflow: ellipsis;
@@ -820,13 +820,13 @@ div.dt-button:active:not(.disabled) {
 .main .page-header .breadcrumb li.active,
 .main .page-header .breadcrumb li:focus,
 .main .page-header .breadcrumb li:hover {
-    font-family: MontserratLight, sans-serif;
+    font-family: 'ubuntu', sans-serif;
     font-weight: 400;
     font-size: 12px
 }
 .main .page-header .breadcrumb li a {
     font-size: 12px;
-    font-family: MontserratLight, sans-serif
+    font-family: 'ubuntu', sans-serif
 }
 .dropdown-task .progress {
     height: 5px;
@@ -862,7 +862,7 @@ div.dt-button:active:not(.disabled) {
 .chat-sidebar .seen,
 .chat-sidebar .textarea,
 .chat-sidebar .user-name {
-    font-family: MontserratLight, sans-serif
+    font-family: 'ubuntu', sans-serif
 }
 .chat-sidebar.is-active {
     right: 0
@@ -1038,7 +1038,7 @@ div.dt-button:active:not(.disabled) {
     margin-bottom: 30px
 }
 .testimonial-widget-one .testimonial-author-position {
-    font-family: MontserratLight, sans-serif;
+    font-family: 'ubuntu', sans-serif;
     margin-right: 75px;
     position: relative;
     top: -5px
@@ -1713,7 +1713,7 @@ footer p {
 .recent-comment .comment-date {
     float: left;
     color: #252525;
-    font-family: MontserratLight, sans-serif;
+    font-family: 'ubuntu', sans-serif;
     font-size: 12px
 }
 .comment-action {
@@ -1721,7 +1721,7 @@ footer p {
 }
 .comment-action .badge {
     text-transform: uppercase;
-    font-family: MontserratLight, sans-serif
+    font-family: 'ubuntu', sans-serif
 }
 .comment-action i {
     padding: 0 5px
@@ -1765,7 +1765,7 @@ footer p {
     border-radius: 0;
     box-shadow: none;
     border-color: #e7e7e7;
-    font-family: MontserratLight, sans-serif
+    font-family: 'ubuntu', sans-serif
 }
 .form-control:hover {
     box-shadow: none;
@@ -2038,7 +2038,7 @@ ul.inbox-nav li a {
     line-height: 45px;
     padding: 0 20px;
     width: 100%;
-    font-family: MontserratLight, sans-serif
+    font-family: 'ubuntu', sans-serif
 }
 ul.inbox-nav li a:focus,
 ul.inbox-nav li a:hover {
@@ -2074,7 +2074,7 @@ ul.labels-info li h4 {
 ul.labels-info li a {
     border-radius: 0;
     color: #6a6a6a;
-    font-family: MontserratLight, sans-serif
+    font-family: 'ubuntu', sans-serif
 }
 ul.labels-info li a:focus,
 ul.labels-info li a:hover {
@@ -2173,7 +2173,7 @@ ul.inbox-pagination li {
     background: #fff;
     border: 1px solid #e7e7e7;
     border-radius: 3px!important;
-    font-family: MontserratLight, sans-serif;
+    font-family: 'ubuntu', sans-serif;
     color: #252525;
     display: inline-block;
     padding: 5px 10px;
@@ -2376,7 +2376,7 @@ ul {
 }
 .tdl-holder li span {
     margin-left: 30px;
-    font-family: MontserratLight, sans-serif;
+    font-family: 'ubuntu', sans-serif;
     vertical-align: middle;
     -webkit-transition: all .2s linear;
     -moz-transition: all .2s linear;
@@ -2450,7 +2450,7 @@ ul {
 }
 .datamap-sales-hover-tooltip {
     background: #545454;
-    font-family: MontserratLight, sans-serif;
+    font-family: 'ubuntu', sans-serif;
     padding: 5px 10px;
     color: #fff;
     font-weight: 400;
@@ -2467,11 +2467,11 @@ thead tr th:last-child {
 }
 tbody tr th {
     color: #252525;
-    font-family: MontserratLight, sans-serif;
+    font-family: 'ubuntu', sans-serif;
     font-weight: 400
 }
 tbody tr td {
-    font-family: MontserratLight, sans-serif;
+    font-family: 'ubuntu', sans-serif;
     color: #252525
 }
 tbody tr td:last-child {
@@ -2645,7 +2645,7 @@ tbody tr td:last-child {
     margin-bottom: 15px;
     padding: 5px 0;
     border-bottom: 1px solid #e7e7e7;
-    font-family: MontserratLight, sans-serif
+    font-family: 'ubuntu', sans-serif
 }
 .work-content {
     margin-bottom: 15px
@@ -2667,7 +2667,7 @@ tbody tr td:last-child {
     display: inline-block;
     font-size: 12px;
     margin-left: 10px;
-    font-family: MontserratLight, sans-serif
+    font-family: 'ubuntu', sans-serif
 }
 .user-Location i {
     font-size: 14px
@@ -2713,7 +2713,7 @@ tbody tr td:last-child {
     text-transform: uppercase;
     padding-top: 10px;
     padding-bottom: 15px;
-    font-family: MontserratLight, sans-serif
+    font-family: 'ubuntu', sans-serif
 }
 .contact-title {
     display: inline-block;
@@ -2729,7 +2729,7 @@ tbody tr td:last-child {
 .gender,
 .mail-address,
 .phone-number {
-    font-family: MontserratLight, sans-serif;
+    font-family: 'ubuntu', sans-serif;
     font-size: 16px;
     color: #252525
 }
@@ -3395,7 +3395,7 @@ tbody tr td:last-child {
 }
 body {
     /*font-family: Montserrat, sans-serif;*/
-    font-family: 'Ubuntu', sans-serif;
+    font-family: 'Ubuntu'!important;
     background: #eef1f6;
     color: #252525
 }
@@ -3424,7 +3424,7 @@ li {
     list-style: none
 }
 p {
-    font-family: MontserratLight, sans-serif;
+    font-family: 'ubuntu', sans-serif;
     color: #252525
 }
 .dib {
